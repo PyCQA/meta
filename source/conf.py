@@ -42,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PyCQA Meta Documentation'
-copyright = u'2016, PyCQA Developers'
+copyright = u'2016, PyCQA Developers CC BY-SA 4.0'
 author = u'PyCQA Developers'
 
 # The version info for the project you're documenting, acts as replacement for
