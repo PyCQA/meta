@@ -29,6 +29,7 @@ Ian
 .. toctree::
     :maxdepth: 2
 
+    code-of-conduct
     introduction
     history
     management
