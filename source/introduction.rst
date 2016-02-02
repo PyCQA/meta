@@ -101,7 +101,7 @@ let us know and we'll be happy to set that up for you.
 How can I add my project to the PyCQA?
 ======================================
 
-If you're project is in related to code style or quality reporting, your
+If your project is related to code style or quality reporting, your
 project is welcome. All we ask is that you send an email to the `code-quality
 mailing list <https://mail.python.org/mailman/listinfo/code-quality>`_ with
 your request to join. In all likelihood one of the organization owners will
