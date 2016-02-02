@@ -6,7 +6,7 @@
 Welcome to PyCQA's Meta Documentation!
 ======================================
 
-So you're wondering what this "Pie Cee Q You Aye" is and you've come here for
+So you're wondering what this "Pie Cee Que Aye" is and you've come here for
 answers? You're in luck!
 
 This website is here to provide you with:
