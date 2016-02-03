@@ -9,16 +9,16 @@ Contributing
 
 This project only requires that:
 
-#. you have `tox`_ installed
-#. you have Python 3 installed locally
+#. you have `sphinx`_ installed (`pip install sphinx`)
 
 To contribute to this repository, fork the project and make your changes.
 Before submitting a pull request, please check that your changes render as
 expected by running::
 
-    $ tox -e docs,serve
+    $ make html
+    $ open build/html/index.html
 
 Then create a pull request with your changes.
 
-.. _tox:
-    https://tox.readthedocs.org/en/latest/
+.. _sphinx:
+    http://www.sphinx-doc.org/en/stable/
