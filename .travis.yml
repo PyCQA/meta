@@ -1,16 +1,16 @@
 ---
 language: python
 
-matrix:
-  include:
-    - python: 3.4
-      env: TOXENV=docs
+sudo: false
+
+python:
+  - 3.4
 
 install:
-  - pip install tox
+  - pip install sphinx
 
 script:
-  - tox
+  - make html
 
 notifications:
   irc:
