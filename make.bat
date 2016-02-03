@@ -2,6 +2,7 @@
 
 REM Command file for Sphinx documentation
 
+set SPHINXOPTS=-W -E
 set SPHINXBUILD=sphinx-build
 set BUILDDIR=build
 set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS% source
