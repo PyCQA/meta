@@ -26,5 +26,6 @@ Then create a pull request with you changes.
 Code of Conduct
 ===============
 
-This repo contains the shared Code of Conduct for the PyCQA, which is hosted at
-`http://meta.pycqa.org/code-of-conduct/`_.
+This repo contains the shared `Code of Conduct`_ for the PyCQA.
+
+.. _Code of Conduct: http://meta.pycqa.org/code-of-conduct/
