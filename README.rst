@@ -28,4 +28,4 @@ Code of Conduct
 
 This repo contains the shared `Code of Conduct`_ for the PyCQA.
 
-.. _Code of Conduct: http://meta.pycqa.org/en/latest/code-of-conduct/
+.. _Code of Conduct: http://meta.pycqa.org/en/latest/code-of-conduct.html
