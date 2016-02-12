@@ -22,3 +22,10 @@ Then create a pull request with your changes.
 
 .. _tox:
     https://tox.readthedocs.org/en/latest/
+
+Code of Conduct
+===============
+
+This repo contains the shared `Code of Conduct`_ for the PyCQA.
+
+.. _Code of Conduct: http://meta.pycqa.org/en/latest/code-of-conduct/
