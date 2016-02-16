@@ -36,10 +36,10 @@ Xicluna) `moved to the PyCQA
 in July of 2015.
 
 
-Pylint and Astroid moves to GitHub and the PyCQA
+Pylint and Astroid move to GitHub and the PyCQA
 ================================================
 
-In October of 2015, Florian Bruhin `sent an announcemnt
+In October of 2015, Florian Bruhin `sent an announcement
 <https://mail.python.org/pipermail/code-quality/2015-October/000673.html>`_ to
 the code-quality mailing list that Pylint and Astroid would be moving to Git
 and GitHub from Mercurial and BitBucket. Over the course of the ensuing
