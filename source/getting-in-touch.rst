@@ -22,7 +22,7 @@ Using IRC
 IRC_ is an old and durable protocol that allows people to chat in real time.
 There are many ways to begin using IRC but we recommend using Freenode's 
 webchat_ as it is both secure (served over TLS) and should work in any
-browser.
+browser. IRCHelp.org has a great tutorial_ to learn how to use IRC.
 
 If you outgrow Freenode's webchat, there are a number of other options for
 connecting to IRC. Wikipedia has an overwhelmingly long `list of IRC
@@ -51,5 +51,7 @@ Linux
 .. _mailing list: https://mail.python.org/mailman/listinfo/code-quality
 .. _IRC: https://en.wikipedia.org/wiki/Internet_Relay_Chat
 .. _webchat: https://webchat.freenode.net/
+.. _tutorial:
+    http://www.irchelp.org/irchelp/irctutorial.html
 .. _list of IRC clients:
     https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients#Operating_system_support
