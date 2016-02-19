@@ -30,19 +30,24 @@ clients`_.
 
 The following is a list of clients that the current members of the PyCQA use:
 
+Windows
+-------
+
+- Hexchat_ (Graphical, Also works on OS X and Linux)
+
 OS X
 ----
 
-- Textual (Graphical, WebKit based)
+- Textual_ (Graphical, WebKit based)
 
-- weechat (Curses, Terminal program)
+- weechat_ (Curses, Terminal program)
 
 Linux
 -----
 
-- weechat (Curses, Terminal program)
+- weechat_ (Curses, Terminal program)
 
-- irssi (Curses, Terminal program)
+- irssi_ (Curses, Terminal program)
 
 .. links
 
@@ -55,3 +60,10 @@ Linux
     http://www.irchelp.org/irchelp/irctutorial.html
 .. _list of IRC clients:
     https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients#Operating_system_support
+
+.. IRC Client Links
+
+.. _Hexchat: https://hexchat.github.io/
+.. _Textual: https://www.codeux.com/textual/
+.. _weechat: https://weechat.org/
+.. _irssi: https://irssi.org/
