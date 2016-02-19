@@ -1,6 +1,6 @@
-==========
- Join Us!
-==========
+=====================
+ Join the Community!
+=====================
 
 There are quite a few ways to get involved with the PyCQA.
 
@@ -24,7 +24,7 @@ There are many ways to begin using IRC but we recommend using Freenode's
 webchat_ as it is both secure (served over TLS) and should work in any
 browser.
 
-If you outgrow Freenode's webcat, there are a number of other options for
+If you outgrow Freenode's webchat, there are a number of other options for
 connecting to IRC. Wikipedia has an overwhelmingly long `list of IRC
 clients`_.
 
