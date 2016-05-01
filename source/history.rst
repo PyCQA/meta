@@ -65,3 +65,13 @@ to be reported to the PEP repository. Vladimir
 Keleshev, the creator of pep257, and Amir Rachum, the active maintainer,
 decided to move the project to the PyCQA. On 29 January 2016, the move and
 rename was complete and Amir joined the PyCQA with pydocstyle.
+
+Baron and RedBaron join the PyCQA
+=================================
+
+On 2016 March 28, the author of Baron and RedBaron `sent a message to the
+code-quality mailing list
+<https://mail.python.org/pipermail/code-quality/2016-March/000732.html>`_
+about a new release and the need for more contributors and maintainers. At
+that point, the organization extended an invitation for Laurent Peuch to join
+with both Baron and RedBaron. The transfer was completed on 2016 March 31.
