@@ -28,6 +28,10 @@
 
   * Amir Rachum
 
+- Baron and RedBaron Administrator(s):
+
+  * Laurent Peuch
+
 All projects in the PyCQA should have a Code of Conduct that they are willing
 to enforce.
 

@@ -39,6 +39,10 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Sylvain Thénault <https://github.com/sthenault>`_
 
+- `Baron <https://github.com/pycqa/baron>`_
+
+  * `Laurent Peuch <https://github.com/Psycojoker>`_
+
 - `Flake8 <https://gitlab.com/pycqa/flake8>`_
 
   * `Ian Cordasco <https://github.com/sigmavirus24>`_
@@ -80,6 +84,10 @@ under the PyCQA are all presently maintained by the following people:
   * `jcristau <https://github.com/jcristau>`_
 
   * `Sylvain Thénault <https://github.com/sthenault>`_
+
+- `RedBaron <https://github.com/pycqa/redbaron>`_
+
+  * `Laurent Peuch <https://github.com/Psycojoker>`_
 
 
 Where does the PyCQA live?
