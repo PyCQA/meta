@@ -59,7 +59,7 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Ian Cordasco <https://github.com/sigmavirus24>`_
 
-- `pep8 <https://github.com/PyCQA/pep8>`_
+- `pycodestyle <https://github.com/PyCQA/pycodestyle>`_
 
   * `Ian Lee <https://github.com/IanLee1521>`_
 
