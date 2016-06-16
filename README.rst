@@ -21,7 +21,7 @@ expected by running::
 Then create a pull request with your changes.
 
 .. _tox:
-    https://tox.readthedocs.org/en/latest/
+    https://tox.readthedocs.io/en/latest/
 
 Code of Conduct
 ===============
