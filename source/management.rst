@@ -32,6 +32,11 @@
 
   * Laurent Peuch
 
+- Flake8-import-order Administrators:
+
+  * Alex Stapleton
+  * Phil Jones
+
 All projects in the PyCQA should have a Code of Conduct that they are willing
 to enforce.
 
