@@ -37,6 +37,10 @@
   * Alex Stapleton
   * Phil Jones
 
+- Flake8-bugbear Administrator(s):
+
+  * Łukasz Langa
+
 All projects in the PyCQA should have a Code of Conduct that they are willing
 to enforce.
 
