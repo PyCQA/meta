@@ -27,6 +27,8 @@ under the PyCQA are all presently maintained by the following people:
 
 - `Astroid <https://github.com/pycqa/astroid>`_
 
+  * `Ashley Whetter <https://github.com/awhetter>`_
+
   * `ceridwen <https://github.com/ceridwen>`_
 
   * `Claudiu Popa <https://github.com/PCManticore>`_
@@ -35,7 +37,13 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Florian Bruhin <https://github.com/The-Compiler>`_
 
+  * `Guillaume Peillex <https://github.com/hippo91>`_
+
+  * `Łukasz Rogalski <https://github.com/rogalski>`_
+
   * `jcristau <https://github.com/jcristau>`_
+
+  * `Roy Williams <https://github.com/rowillia>`_
 
   * `Sylvain Thénault <https://github.com/sthenault>`_
 
@@ -73,6 +81,8 @@ under the PyCQA are all presently maintained by the following people:
 
 - `Pylint <https://github.com/pycqa/pylint>`_
 
+  * `Ashley Whetter <https://github.com/awhetter>`_
+
   * `ceridwen <https://github.com/ceridwen>`_
 
   * `Claudiu Popa <https://github.com/PCManticore>`_
@@ -81,7 +91,13 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Florian Bruhin <https://github.com/The-Compiler>`_
 
+  * `Guillaume Peillex <https://github.com/hippo91>`_
+
+  * `Łukasz Rogalski <https://github.com/rogalski>`_
+
   * `jcristau <https://github.com/jcristau>`_
+
+  * `Roy Williams <https://github.com/rowillia>`_
 
   * `Sylvain Thénault <https://github.com/sthenault>`_
 
