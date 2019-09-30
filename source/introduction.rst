@@ -47,6 +47,16 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Sylvain Thénault <https://github.com/sthenault>`_
 
+- `Bandit <https://github.com/pycqa/bandit>`_
+
+  * `Eric Brown <https://github.com/ericwb>`_
+
+  * `Gage Hugo <https://github.com/ghugo>`_
+
+  * `Ian Stapleton Cordasco <https://github.com/sigmavirus24>`_
+
+  * `Luke Hinds <https://github.com/lukehinds>`_
+
 - `Baron <https://github.com/pycqa/baron>`_
 
   * `Laurent Peuch <https://github.com/Psycojoker>`_

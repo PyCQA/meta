@@ -41,6 +41,13 @@
 
   * Łukasz Langa
 
+- Bandit Administrator(s):
+
+  * Eric Brown
+  * Gage Hugo
+  * Ian Stapleton Cordasco
+  * Luke Hinds
+
 All projects in the PyCQA should have a Code of Conduct that they are willing
 to enforce.
 
