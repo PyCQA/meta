@@ -33,10 +33,10 @@ The following is a list of clients that the current members of the PyCQA use:
 Windows
 -------
 
-- Hexchat_ (Graphical, Also works on OS X and Linux)
+- Hexchat_ (Graphical, Also works on macOS and Linux)
 
-OS X
-----
+macOS
+-----
 
 - Textual_ (Graphical, WebKit based)
 
