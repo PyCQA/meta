@@ -45,7 +45,7 @@
 
   * Eric Brown
   * Gage Hugo
-  * Ian Cordasco
+  * Ian Stapleton Cordasco
   * Luke Hinds
 
 All projects in the PyCQA should have a Code of Conduct that they are willing

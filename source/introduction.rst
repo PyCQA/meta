@@ -53,7 +53,7 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Gage Hugo <https://github.com/ghugo>`_
 
-  * `Ian Cordasco <https://github.com/sigmavirus24>`_
+  * `Ian Stapleton Cordasco <https://github.com/sigmavirus24>`_
 
   * `Luke Hinds <https://github.com/lukehinds>`_
 
