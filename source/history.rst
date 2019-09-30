@@ -75,3 +75,11 @@ code-quality mailing list
 about a new release and the need for more contributors and maintainers. At
 that point, the organization extended an invitation for Laurent Peuch to join
 with both Baron and RedBaron. The transfer was completed on 2016 March 31.
+
+Bandit moves to the PyCQA organization
+======================================
+On 2018 February 26, the authors of Bandit `sent a request to the
+code-quality mailing list
+<https://mail.python.org/pipermail/code-quality/2018-February/000976.html>`_
+to accept Bandit from the OpenStack namespace to the PyCQA. The
+transfer was completed on 2018 May 2.
