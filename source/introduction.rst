@@ -89,6 +89,10 @@ under the PyCQA are all presently maintained by the following people:
 
   * `Amir Rachum <https://github.com/orgs/PyCQA/people/Nurdok>`_
 
+  * `Shachar Ohana <https://github.com/shacharoo>`_
+
+  * `Sambhav Kothari <https://github.com/samj1912>`_
+
 - `Pylint <https://github.com/pycqa/pylint>`_
 
   * `Ashley Whetter <https://github.com/awhetter>`_
