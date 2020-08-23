@@ -27,6 +27,7 @@
 - Pydocstyle (formerly pep257) Administrator(s):
 
   * Amir Rachum
+  * Sambhav Kothari
 
 - Baron and RedBaron Administrator(s):
 
