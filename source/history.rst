@@ -83,3 +83,13 @@ code-quality mailing list
 <https://mail.python.org/pipermail/code-quality/2018-February/000976.html>`_
 to accept Bandit from the OpenStack namespace to the PyCQA. The
 transfer was completed on 2018 May 2.
+
+modernize joins PyCQA
+======================================
+On 2020 August 18, Thomas Grainger, as a maintainer of the project, requests that modernize be moved into the PyCQA organization.
+With the support of all project maintainers in place, the transfer was completed on 2020 August 23.
+
+isort joins PyCQA
+======================================
+On 2020 August 23, Timothy Crosley, the author of isort sent a request for the project to be moved into the PyCQA organization.
+The transfer was completed on the same day.
