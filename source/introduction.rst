@@ -87,7 +87,7 @@ under the PyCQA are all presently maintained by the following people:
 
 - `pydocstyle <https://github.com/PyCQA/pydocstyle>`_
 
-  * `Amir Rachum <https://github.com/orgs/PyCQA/people/Nurdok>`_
+  * `Amir Rachum <https://github.com/Nurdok>`_
 
   * `Shachar Ohana <https://github.com/shacharoo>`_
 
