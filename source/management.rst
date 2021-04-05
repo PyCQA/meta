@@ -23,6 +23,8 @@
   * Claudiu Popa
   * Florian Bruhin
   * Sylvain Thénault
+  * Guillaume Peillex
+  * Pierre Sassoulas
 
 - Pydocstyle (formerly pep257) Administrator(s):
 

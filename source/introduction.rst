@@ -22,30 +22,39 @@ easy to remember namespace for their projects.
 Who is part of the PyCQA?
 =========================
 
-The projects housed
-under the PyCQA are all presently maintained by the following people:
+The projects housed under the PyCQA are all presently maintained by the
+following people:
 
-- `Astroid <https://github.com/pycqa/astroid>`_
+- `Astroid <https://github.com/pycqa/astroid>`_ and `Pylint <https://github.com/pycqa/pylint>`_
+    - Maintainers:
+          * `Ashley Whetter <https://github.com/awhetter>`_
 
-  * `Ashley Whetter <https://github.com/awhetter>`_
+          * `Bryce Guinta <https://github.com/brycepg>`_
 
-  * `ceridwen <https://github.com/ceridwen>`_
+          * `Guillaume Peillex <https://github.com/hippo91>`_
 
-  * `Claudiu Popa <https://github.com/PCManticore>`_
+          * `Pierre Sassoulas <https://github.com/Pierre-Sassoulas>`_
 
-  * `Dmitry Pribysh <https://github.com/dmand>`_
+          * `Claudiu Popa <https://github.com/PCManticore>`_
 
-  * `Florian Bruhin <https://github.com/The-Compiler>`_
+    - Developers:
+          * `Marc Mueller <https://github.com/cdce8p>`_
 
-  * `Guillaume Peillex <https://github.com/hippo91>`_
+          * `ceridwen <https://github.com/ceridwen>`_
 
-  * `Łukasz Rogalski <https://github.com/rogalski>`_
+          * `Dmitry Pribysh <https://github.com/dmand>`_
 
-  * `jcristau <https://github.com/jcristau>`_
+          * `jcristau <https://github.com/jcristau>`_
 
-  * `Roy Williams <https://github.com/rowillia>`_
+          * `Sushobhit <https://github.com/sushobhit27>`_
 
-  * `Sylvain Thénault <https://github.com/sthenault>`_
+          * `Florian Bruhin <https://github.com/The-Compiler>`_
+
+          * `Łukasz Rogalski <https://github.com/rogalski>`_
+
+          * `Roy Williams <https://github.com/rowillia>`_
+
+          * `Sylvain Thénault <https://github.com/sthenault>`_
 
 - `Bandit <https://github.com/pycqa/bandit>`_
 
@@ -92,28 +101,6 @@ under the PyCQA are all presently maintained by the following people:
   * `Shachar Ohana <https://github.com/shacharoo>`_
 
   * `Sambhav Kothari <https://github.com/samj1912>`_
-
-- `Pylint <https://github.com/pycqa/pylint>`_
-
-  * `Ashley Whetter <https://github.com/awhetter>`_
-
-  * `ceridwen <https://github.com/ceridwen>`_
-
-  * `Claudiu Popa <https://github.com/PCManticore>`_
-
-  * `Dmitry Pribysh <https://github.com/dmand>`_
-
-  * `Florian Bruhin <https://github.com/The-Compiler>`_
-
-  * `Guillaume Peillex <https://github.com/hippo91>`_
-
-  * `Łukasz Rogalski <https://github.com/rogalski>`_
-
-  * `jcristau <https://github.com/jcristau>`_
-
-  * `Roy Williams <https://github.com/rowillia>`_
-
-  * `Sylvain Thénault <https://github.com/sthenault>`_
 
 - `RedBaron <https://github.com/pycqa/redbaron>`_
 
