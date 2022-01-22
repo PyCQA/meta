@@ -4,29 +4,70 @@
 
 There are quite a few ways to get involved with the PyCQA.
 
-#. You can contribute directly to projects in a variety of ways
+Asynchronous Methods
+====================
 
-#. You can start discussions by opening issues on our meta_ repository
+GitHub
+------
 
-#. You can join us on Discord_ where every project will receive space of their
-   own for conversations and collaborations.
+You can contribute directly to projects in a variety of ways.
 
-#. You can chat with a few of us on IRC on the Libera.chat_ server in the
-   ``##python-code-quality`` channel (See also ":ref:`using-irc`")
+Each project should have documentation for how to participate. Please visit
+the specific project's documentation and repository for instructions.
 
-#. You can join our `mailing list`_ (this list does not receive a large amount
-   of messages so it should not cause an information overload if you join)
+Mailing List
+------------
 
-.. _using-irc:
+You can join our `mailing list`_ (this list does not receive a large amount
+of messages so it should not cause an information overload if you join).
 
-Using IRC
-=========
+If you have questions about a project or its maintenance and the project seems
+inactive on GitHub, please use the mailing list to inquire. Please also check
+the archives for prior discussions before posting new threads.
 
 .. note::
 
-   Our primary method of synchronous communication is Discord_. IRC is still
+   The mailing list is partially moderated. This means that if you join the
+   list, your first message may be held until an administrator reviews it and
+   allows your posts to automatically be posted.
+
+   A fair amount of spam is sent to the mailing list, and this moderation
+   protects your inbox at the expense of moderators and administrators. If
+   you'd like to help with moderating the list, reach out to the admin address
+   listed on the mailing list page.
+
+Meta Issue Tracker
+------------------
+
+You can start discussions by opening issues on our meta_ repository. If
+there's some governance question that for some reason seems unsuitable to the
+Mailing List, feel free to open an issue on the meta_ repository.
+
+Semi-Synchronous Methods
+========================
+
+Discord
+-------
+
+You can join us on Discord_ where every project will receive space of their
+own for conversations and collaborations.
+
+We are aware that Discord requires non-free software, but the benefits to the
+user and the organization far outweigh that one ideological barrier.
+
+.. _using-irc:
+
+IRC
+---
+
+.. note::
+
+   Our primary method of semi-synchronous communication is Discord_. IRC is still
    used by some members but is not the primary location and is not thoroughly
-   monitored.
+   monitored. **Your queries may go unanswered here.**
+
+You can chat with a few of us on IRC on the Libera.chat_ server in the
+``##python-code-quality`` channel (See also ":ref:`using-irc`")
 
 IRC_ is an old and durable protocol that allows people to chat in real time.
 There are many ways to begin using IRC but we recommend using Libera's
@@ -40,19 +81,19 @@ clients`_.
 The following is a list of clients that the current members of the PyCQA use:
 
 Windows
--------
++++++++
 
 - Hexchat_ (Graphical, Also works on macOS and Linux)
 
 macOS
------
++++++
 
 - Textual_ (Graphical, WebKit based)
 
 - weechat_ (Curses, Terminal program)
 
 Linux
------
++++++
 
 - weechat_ (Curses, Terminal program)
 
