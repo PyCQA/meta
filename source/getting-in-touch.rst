@@ -8,7 +8,10 @@ There are quite a few ways to get involved with the PyCQA.
 
 #. You can start discussions by opening issues on our meta_ repository
 
-#. You can chat with us on IRC on the Freenode_ server in the 
+#. You can join us on Discord_ where every project will receive space of their
+   own for conversations and collaborations.
+
+#. You can chat with a few of us on IRC on the Libera.chat_ server in the
    ``##python-code-quality`` channel (See also ":ref:`using-irc`")
 
 #. You can join our `mailing list`_ (this list does not receive a large amount
@@ -19,12 +22,18 @@ There are quite a few ways to get involved with the PyCQA.
 Using IRC
 =========
 
+.. note::
+
+   Our primary method of synchronous communication is Discord_. IRC is still
+   used by some members but is not the primary location and is not thoroughly
+   monitored.
+
 IRC_ is an old and durable protocol that allows people to chat in real time.
-There are many ways to begin using IRC but we recommend using Freenode's 
+There are many ways to begin using IRC but we recommend using Libera's
 webchat_ as it is both secure (served over TLS) and should work in any
 browser. IRCHelp.org has a great tutorial_ to learn how to use IRC.
 
-If you outgrow Freenode's webchat, there are a number of other options for
+If you outgrow Libera's webchat, there are a number of other options for
 connecting to IRC. Wikipedia has an overwhelmingly long `list of IRC
 clients`_.
 
@@ -52,10 +61,11 @@ Linux
 .. links
 
 .. _meta: https://github.com/PyCQA/meta
-.. _Freenode: https://freenode.net/
+.. _Discord: https://discord.gg/Dzab9Ba8
+.. _Libera.chat: https://libera.chat/
 .. _mailing list: https://mail.python.org/mailman/listinfo/code-quality
 .. _IRC: https://en.wikipedia.org/wiki/Internet_Relay_Chat
-.. _webchat: https://webchat.freenode.net/
+.. _webchat: https://web.libera.chat/
 .. _tutorial:
     http://www.irchelp.org/irchelp/irctutorial.html
 .. _list of IRC clients:
