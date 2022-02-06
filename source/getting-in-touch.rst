@@ -102,7 +102,7 @@ Linux
 .. links
 
 .. _meta: https://github.com/PyCQA/meta
-.. _Discord: https://discord.gg/Dzab9Ba8
+.. _Discord: https://discord.gg/D3RTpU9zEj
 .. _Libera.chat: https://libera.chat/
 .. _mailing list: https://mail.python.org/mailman/listinfo/code-quality
 .. _IRC: https://en.wikipedia.org/wiki/Internet_Relay_Chat
