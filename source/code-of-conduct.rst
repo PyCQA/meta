@@ -67,8 +67,7 @@ Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-Ian Stapleton Cordasco <graffatcolmingov@gmail.com>, 
-Ian Lee <IanLee1521@gmail.com> or Florian Bruhin <me@the-compiler.org>.
+Ian Stapleton Cordasco <graffatcolmingov@gmail.com> or Ian Lee <IanLee1521@gmail.com>.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
